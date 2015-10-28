@@ -1,0 +1,23 @@
+name: Scott Chisholm
+favicon: null
+layout_spectrum: 0.3737897833343595
+typography_spectrum: 0.35328777716495097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25377921131439507
+  lightness: 0.5497923889197409
+  saturation: 0.24563623778522015
+  rhythmicContrast: 0.3808645596727729
+purpose: []
