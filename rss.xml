@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scott Chisholm]]></title>
+        <description><![CDATA[Scott Chisholm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 28 Oct 2015 00:27:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is my first Grid post.  I made it in!</p>]]></description>
+            <link>undefinedcfc8100d-456f-465a-bc96-e51dc232b6bd/index.html</link>
+            <guid isPermaLink="false">cfc8100d-456f-465a-bc96-e51dc232b6bd</guid>
+            <pubDate>Wed, 28 Oct 2015 00:27:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
