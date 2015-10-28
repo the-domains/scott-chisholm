@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Scott Chisholm]]></title>
         <description><![CDATA[Scott Chisholm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scott-chisholm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 00:27:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 00:28:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-chisholm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is my first Grid post.  I made it in!</p>]]></description>
-            <link>undefinedcfc8100d-456f-465a-bc96-e51dc232b6bd/index.html</link>
+            <link>https://thegrid.ai/scott-chisholm/cfc8100d-456f-465a-bc96-e51dc232b6bd/index.html</link>
             <guid isPermaLink="false">cfc8100d-456f-465a-bc96-e51dc232b6bd</guid>
-            <pubDate>Wed, 28 Oct 2015 00:27:45 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2015 00:28:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
